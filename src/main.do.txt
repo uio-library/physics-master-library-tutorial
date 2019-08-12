@@ -1,0 +1,225 @@
+TOC: on 
+
+======= Library tutorial for new master students =======
+
+This tutorial seeks to make you familiar with
+
+* Use of various literature search databases
+* How to cite and refer (tools and requirements) 
+* Copyright 
+
+Get together in groups of 3-4 students and work through the exercises. 
+
+!split
+===== Exercise: Literature search =====
+*Spend 15 minutes on this exercise working with your group*
+
+Choose a topic for which you want to find some scientific papers, either by yourself of from the list below. 
+
+* High $T_c$ superconductor materials of type 2
+* Crystallization pressure of hydration of periclase
+* Energy barriers of crystal growth
+
+!bsubex
+Find scientific papers about your topic using "Scopus": "https://www.scopus.com" *or* "WebOfScience": "https://www.webofscience.com" *and* "Google Scholar": "https://scholar.google.com". How many papers do you find using each search engine?  
+!esubex
+
+!bsubex
+Refine your search using the the refinement tools on both search engines. Can you narrow down to manageable number of papers? 
+!esubex
+
+!bsubex
+The next steps would be to read through all the titles of your search results after narrowing down, and then read all the abstracts of the papers with compelling titles. To save time, we are skipping this today. 
+!esubex
+
+!split
+
+===== Exercise: Citations and references =====
+*Spend 15 minutes on this exercise working with your group*
+
+Even though we expect that you have learned about citatons and referencing before, we take some time to refresh it now. 
+
+Using citations and references correctly ensures that 
+
+    o the reader knows where to read more about something
+    o the reader can check your facts and verify your results  
+    o that you credit the right person for a discovery, claim, line of reasoning etc. rather than pretending you made it up yourself. 
+
+(1) is important in order to make what you write easier to follow, and to see where it fits into the lierature. (2) is important to avoid plagiarism. 
+
+!bsubex
+UiO has rules for cheating, and within them is a guide for "using sources and citations": "https://www.uio.no/english/studies/examinations/sources-citations/". Open the link and make sure that you are familiar with these rules. 
+!esubex
+
+To be sure that we agree on the terminology, we have included two figures showing what are *citations* and what are *references*. 
+
+FIGURE: [figures/citations.png, width=400] These are citations (inside green cirlcles.)
+
+FIGURE: [figures/references.png, width=400] ... and these are the references. The references contain enough information to find the document that was cited. 
+
+!bsubex
+In the examples below, we have taken small sections of text from real academic papers. We have highlighted *one* of the citations in each section of text. In the exercises below, discuss with your group the reason for having the citation, and then check the answer. 
+
+## Factual statement 
+!bquestion
+We have highlighted one of the citations in the text below with boldface. Why is that citation needed? 
+!bquiz
+Q: [] 
+
+Standard force fields, designed to be numerically efficient, are created by fitting a subset of thermodynamic and structural properties to an analytic expression for the potential energy, typically consisting of sums of pairwise long-range terms <b>[8]</b>. In many systems, this approach has proved successful even if the accuracy of such force fields is at best around 1 kcal/mol. For example, Schames et al. [9] used molecular dynamics simulations to discover a hidden binding site in HIV integrase, a molecule that enables the integration of HIV’s genetic material into the host cell DNA. This discovery led to experimental confirmation [10] and subsequent development of raltegravir, a successful medicine that halts the progression of HIV into AIDS. Another success was the simultaneous discovery by simulation [11] and experiment [12] of the molecular basis of mutations in a gene responsible for Gaucher’s disease, a genetic disease causing the build-up of fatty substances in the organism.
+
+Cw: [] Non-standard equation. 
+Cr: [] Statement made in cited paper. 
+Cw: [] Scientific fact from a different paper. 
+!equiz
+!equestion
+
+## Parafrase 
+!bquestion
+Why the citatiton(s) in the text below?
+!bquiz
+Q: []
+Here we present our recent development of a class of force fields for materials modelling <b>[14–20]</b> that are transferable,
+physically motivated, and implemented in the general purpose molecular dynamics software QDO_MD. The technique treats many-body polarisation and many-body dispersion on the same footing by representing electronic distributions of individual atoms and molecular moieties using a single coarse grained particle.
+
+Cw: [] Factual statement from a different paper. 
+
+Cw: [] Reading guide.
+
+Cr: [] Alert of paraphrase. 
+E: This is a review paper where the authors are summing up their efforts over some time. Thus to avoid muddling up the paper with a lot of citations, they just state that the contents are taken from other papers. This would usually not be accepted in original research papers. 
+!equiz
+!equestion
+
+
+## Likning 
+!bquestion
+!bquiz
+Q: [] Why the citation? 
+FIGURE: [figures/figure_citation.png, width=400]
+Cw: [] Non-standard equation
+Cw: [] Statement originally made in cited paper
+Cr: [] To avoid copyright infringements 
+E: This may be true, but another alternative is also true. 
+Cr: [] To refer to the paper originally containing the figure. 
+E: This is the main reason for this citation. Depending on the publisher, it may also be required to cite in order to comply with the conditions for reuse. 
+!equiz
+!equestion
+
+
+!bquestion
+Where in this text would you add citations? 
+!bquiz
+Q: [] Singular or nonrough surfaces, which correspond to cusps in the plot of the surface free energy as a function of orientation, advance and retreat via the lateral motion of steps that add or subtract atomic layers. If a singular surface has no steps or step sources, its motion is limited by two-dimensional nucleation. The so-called “growth resistance” that is derived from the two- dimensional nucleation barrier was a controversial topic in the first half of the twentieth century, as researchers attempted to under- stand how singular surfaces could advance at supersaturations 10–100 times smaller than those predicted by nucleation theory. This issue was settled by Frank, who convincingly argued that screw-dislocation/surface intersections provide the source of the steps necessary for a singular facet to advance or retreat under the low-supersaturation conditions that are observed in growth exper- iments. In this communication, a singular surface (or facet) without steps is termed an ideal singular surface. When the problem of two-dimensional nucleation on an ideal singular facet was revisited by Hirth, using a refined theory, the conclusions of the earlier investigations were substantiated.
+
+Cr: [] See answer 
+E: <i>Below is the text reproduced with the citations from the actual version of the paper</i>. 
+
+Singular or nonrough surfaces, which correspond to cusps in the plot of the surface free energy as a function of orientation, advance and retreat via the lateral motion of steps that add or subtract atomic layers. If a singular surface has no steps or step sources, its motion is limited by two-dimensional nucleation <b>[1,2]</b>. The so-called “growth resistance” that is derived from the two- dimensional nucleation barrier was a controversial topic in the first half of the twentieth century, as researchers attempted to under- stand how singular surfaces could advance at supersaturations 10–100 times smaller than those predicted by nucleation theory <b>[2]</b>. This issue was settled by Frank <b>[3]</b>, who convincingly argued that screw-dislocation/surface intersections provide the source of the steps necessary for a singular facet to advance or retreat under the low-supersaturation conditions that are observed in growth exper- iments. In this communication, a singular surface (or facet) without steps is termed an ideal singular surface. When the problem of two-dimensional nucleation on an ideal singular facet was revisited by Hirth <b>[4]</b>, using a refined theory, the conclusions of the earlier investigations <b>[2]</b> were substantiated.
+!equiz 
+!equestion
+
+!bquestion
+Below is a text excerpt from a scientific paper [P.W. Anderson. 1972. More is Different. <i>Science</i> 177, 4042]. Do you consider the citations to be sufficient? 
+
+!bquiz
+Q: [] The reductionist hypothesis may still be a topic for contrtoversy among philosphers, but among the great majority of active scientists I think it is accepted without question. The workings of our minds and bodies, and of all the animate or inanimate matter of which we have any detailed knowledge, are assumed to be controlled by the same set of fundamental laws, which except under certain extreme conditions we feel we know pretty well. 
+
+It seems inevitable to go on uncritically to what appears at first sight to be an obvious corollary of reductionism: that if everything obeys the same fundamental laws, then the only scientists who are studying anything really fundamental are those who are working on those laws. In practice, that amounts to some astrophysicists, some elementary particle physicists, some logicians and other matematicians, and few others. This point of view, which it is the main purpose of this article to oppose, is expressed in a rather well-known passage by Weisskopf [1]:
+
+...
+
+
+Cr: [] Yes
+E: Perhaps. Depending on the readership that is being addressed, this amount of citations may or may be sufficient. 
+Cr: [] No
+E: Perhaps. Depending on the readership that is being addressed, this amount of citations may or may be sufficient. 
+!equiz 
+!equestion
+
+!esubex
+
+!split 
+
+===== Exercise: Copyright =====
+
+When you are writing your thesis, you may want to reuse materials found in books, papers etc. In addition to referring correctly to theseyou may have to obtain permissions to avoid copyright infringements. 
+
+In general, you always need to obtain copyright in order to use materials that other people made. But there are a myriad of exceptions. Perhaps the most important one: There is no copyright on facts. Thus stating a fact that someone else discovered of came up with is fine. 
+
+Another exception is that figures *only* showing data don't need permissions. This for instance applies to most simple plots. But note that as soon as the author has drawn something om top of thte plot, it may be subject to copyright. 
+
+Fortunately, it is usually simple to obtain permissions for use. 
+
+FIGURE: [figures/permissions, width=600] Example of button to press in order to obtain permissions for reuse of matetrials from *Physical Review Letters*. 
+
+
+
+!bsubex
+Find out how to reuse materials from the following papers on "influenza and humidity": "https://www.pnas.org/content/116/22/10905". 
+!esubex
+
+!bsubex
+Had this paper been publised in 2015, what steps would you have needed to take to reuse matetrials? 
+!esubex
+
+
+
+=== Overview of breaking the rules ===
+The difference between plagiarism and copyright infringements. Note that some actions may fall into both categories simultaneously. 
+|--c---------c----|
+| Plagiarism | Copyright infringement|
+|--------c---------c---------|
+| Giving the impression that someone else’s work is your own. | Using someone else’s work without their permission.|
+| Reasonably easy to avoid by being honest. | Difficult/vague rules. Fair use etc. | 
+| An ethical construct | A legal construct |
+| May get you expelled | May lead to claims for damages | 
+|--------------------------------------|
+
+!split
+===== Exercise: Using a reference manager with latex =====
+*Only do this exercise if you are not familiar with using a reference manager with latex. Do this exercise individually, but ask your peers (or a teacher) for help if you need to*
+
+There are two absolute requirements on references:
+
+o Enough information to find the document being referred to
+o Consistent styling 
+
+Keeping track of your references is simpler with a reference management software. Mendeley, Zotero and EndNote are commonly used. All of them support bibtex export (for latex) and have plugins for use with Microsoft Word. These programs both act as a library keeping track of all the documents you have added there, and they help you creating flawless reference lists. 
+
+!bsubex
+Install a reference manager (e.g. Mendeley or Zotero). Toss a coin if you don't know which to choose. 
+!esubex
+
+!bsubex
+Drop a couple of article pdfs into your reference manager. Export biblatex citations to a .bib file. 
+!esubex
+
+!bsubex
+The following is a minimal example of a latex document using biblatex. 
+
+!bc
+\documentclass[a4paper]{article}
+
+\usepackage[style=nature, backend=biber]{biblatex}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+
+\addbibresource{bibliography.bib}
+\begin{document}
+This is a citation \cite{some_author2019}. 
+
+\printbibliography
+
+\end{document}
+!ec
+
+Use this example with your exported .bib file to create a nicely formatted reference list. 
+!esubex
+
+
+!split
+===== Finished! =====
+If you need help from the library during your studies, feel free to contact us. Contact information for the physics staff at the University library can be found on "ub.uio.no/fysikk": "https://ub.uio.no/fysikk" (norwegian) or "ub.uio.no/physics": "https://ub.uio.no/physics"  (english). Or just show up at the library in Vilhelm Bjerknes' hus. 
+
+
