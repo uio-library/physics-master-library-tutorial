@@ -1,6 +1,6 @@
-TOC: on 
+TITLE: Library tutorial for physics master students
+DATE: today 
 
-======= Library tutorial for new master students =======
 
 This tutorial seeks to make you familiar with
 
@@ -14,18 +14,23 @@ Get together in groups of 3-4 students and work through the exercises.
 ===== Exercise: Literature search =====
 *Spend 15 minutes on this exercise working with your group*
 
-Choose a topic for which you want to find some scientific papers, either by yourself of from the list below. 
+As a group, choose a topic for a literature search. You may come up with your own, or use one of the examples below. 
+It is an advantage if someone on the group knows something about the topic. 
 
 * High $T_c$ superconductor materials of type 2
 * Crystallization pressure of hydration of periclase
 * Energy barriers of crystal growth
+* How does LIGO work?
+* How old is the universe? Exactly
 
 !bsubex
-Find scientific papers about your topic using "Scopus": "https://www.scopus.com" *or* "WebOfScience": "https://www.webofscience.com" *and* "Google Scholar": "https://scholar.google.com". How many papers do you find using each search engine?  
+Agree on a search string (words to put into the search engine). Find scientific papers about your topic using "Scopus": "https://www.scopus.com" *or* "WebOfScience": "https://www.webofscience.com" *and* "Google Scholar": "https://scholar.google.com". How many papers do you find using each search engine?  
 !esubex
+
 
 !bsubex
 Refine your search using the the refinement tools on both search engines. Can you narrow down to manageable number of papers? 
+If yes: good. If no: try to make your search terms more specific. 
 !esubex
 
 !bsubex
@@ -35,7 +40,7 @@ The next steps would be to read through all the titles of your search results af
 !split
 
 ===== Exercise: Citations and references =====
-*Spend 15 minutes on this exercise working with your group*
+*Spend 20 minutes on this exercise working with your group*
 
 Even though we expect that you have learned about citatons and referencing before, we take some time to refresh it now. 
 
@@ -45,17 +50,17 @@ Using citations and references correctly ensures that
     o the reader can check your facts and verify your results  
     o that you credit the right person for a discovery, claim, line of reasoning etc. rather than pretending you made it up yourself. 
 
-(1) is important in order to make what you write easier to follow, and to see where it fits into the lierature. (2) is important to avoid plagiarism. 
-
-!bsubex
-UiO has rules for cheating, and within them is a guide for "using sources and citations": "https://www.uio.no/english/studies/examinations/sources-citations/". Open the link and make sure that you are familiar with these rules. 
-!esubex
+(1) and (2) makes what you write easier to follow, and shows where it fits into the literature. (3) ensures you avoid plagiarism. 
 
 To be sure that we agree on the terminology, we have included two figures showing what are *citations* and what are *references*. 
 
 FIGURE: [figures/citations.png, width=400] These are citations (inside green cirlcles.)
 
 FIGURE: [figures/references.png, width=400] ... and these are the references. The references contain enough information to find the document that was cited. 
+
+!bsubex
+UiO has rules for cheating, and within them is a guide for "using sources and citations": "https://www.uio.no/english/studies/examinations/sources-citations/". Open the link and make sure that you are familiar with these rules. 
+!esubex
 
 !bsubex
 In the examples below, we have taken small sections of text from real academic papers. We have highlighted *one* of the citations in each section of text. In the exercises below, discuss with your group the reason for having the citation, and then check the answer. 
@@ -120,7 +125,7 @@ Singular or nonrough surfaces, which correspond to cusps in the plot of the surf
 !equestion
 
 !bquestion
-Below is a text excerpt from a scientific paper [P.W. Anderson. 1972. More is Different. <i>Science</i> 177, 4042]. Do you consider the citations to be sufficient? 
+Below is a text excerpt from a scientific paper [P.W. Anderson. 1972. More is Different. <i>Science</i> 177, 4042]. Do you consider the citations to be sufficient? Discuss with your group. 
 
 !bquiz
 Q: [] The reductionist hypothesis may still be a topic for contrtoversy among philosphers, but among the great majority of active scientists I think it is accepted without question. The workings of our minds and bodies, and of all the animate or inanimate matter of which we have any detailed knowledge, are assumed to be controlled by the same set of fundamental laws, which except under certain extreme conditions we feel we know pretty well. 
@@ -142,25 +147,26 @@ E: Perhaps. Depending on the readership that is being addressed, this amount of 
 !split 
 
 ===== Exercise: Copyright =====
+*Spend 10 minutes working through this exercise with your group*
 
-When you are writing your thesis, you may want to reuse materials found in books, papers etc. In addition to referring correctly to theseyou may have to obtain permissions to avoid copyright infringements. 
+When you are writing your thesis, you may want to reuse materials found in books, papers etc. In addition to referring correctly to these, you may need to obtain permissions to avoid copyright infringements. 
 
-In general, you always need to obtain copyright in order to use materials that other people made. But there are a myriad of exceptions. Perhaps the most important one: There is no copyright on facts. Thus stating a fact that someone else discovered of came up with is fine. 
+In general, you always need to obtain copyright in order to use materials that other people made. But there are a myriad of exceptions. Perhaps the most important one: There is no copyright on facts. Thus stating a fact that someone else discovered or came up with is fine. 
 
-Another exception is that figures *only* showing data don't need permissions. This for instance applies to most simple plots. But note that as soon as the author has drawn something om top of thte plot, it may be subject to copyright. 
+Another exception is that figures *only* showing data don't need permissions. This for instance applies to most simple plots. But note that as soon as the author has drawn something om top of the plot, it may be subject to copyright. 
 
-Fortunately, it is usually simple to obtain permissions for use. 
+Additionally, more and more journals are using "Creative Commons": "https://creativecommons.org/" licences on their articles, which gives you the right to reuse the contents under specific conditions. For the the rest, you need to explicitly get permission for use, but this is usually quite simple (and automated). See for instance the example below from *Physical Review Letters*. 
 
 FIGURE: [figures/permissions, width=600] Example of button to press in order to obtain permissions for reuse of matetrials from *Physical Review Letters*. 
 
 
 
 !bsubex
-Find out how to reuse materials from the following papers on "influenza and humidity": "https://www.pnas.org/content/116/22/10905". 
+Find out how to reuse materials from a paper on "influenza and humidity": "https://www.pnas.org/content/116/22/10905". 
 !esubex
 
 !bsubex
-Had this paper been publised in 2015, what steps would you have needed to take to reuse matetrials? 
+Had this paper been publised in 2015, what steps would you need to take to reuse materials? 
 !esubex
 
 
@@ -176,9 +182,13 @@ The difference between plagiarism and copyright infringements. Note that some ac
 | May get you expelled | May lead to claims for damages | 
 |--------------------------------------|
 
+!bsubex
+Which one is easiest to avoid, plagiarism or copyright infringement? Discuss with your group. 
+!esubex
+
 !split
-===== Exercise: Using a reference manager with latex =====
-*Only do this exercise if you are not familiar with using a reference manager with latex. Do this exercise individually, but ask your peers (or a teacher) for help if you need to*
+===== Exercise: Bonus exercise -- using a reference manager with latex =====
+*Only do this exercise if you are not familiar with using a reference manager with latex. Do this exercise individually, but ask your peers (or a teacher) for help if you need to. If you didn't bring your laptop, you may either try to use a service such as overleaf, or do this exercise some other time.*
 
 There are two absolute requirements on references:
 
@@ -206,7 +216,9 @@ The following is a minimal example of a latex document using biblatex.
 \usepackage[T1]{fontenc}
 
 \addbibresource{bibliography.bib}
+
 \begin{document}
+
 This is a citation \cite{some_author2019}. 
 
 \printbibliography
